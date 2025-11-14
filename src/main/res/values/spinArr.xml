@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinna">
+        <item>None</item>
+        <item>Nausea</item>
+        <item>Diarrhea</item>
+        <item>Sore throat</item>
+        <item>Fever</item>
+        <item>Muscle Ache</item>
+        <item>Loss of Smell or Taste</item>
+        <item>Cough</item>
+        <item>Shortness of breath</item>
+        <item>Feeling tired</item>
+    </string-array>
+</resources>
